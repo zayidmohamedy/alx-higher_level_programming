@@ -1,7 +1,10 @@
-
 #!/usr/bin/python3
+
 if __name__ == "__import__":
+    """Print all names defined by hidden_4 module."""
     import hidden_4
-    for name in dir(hidden_4.pyc):
-        if name[0] != '_' and name[1] != '_':
+
+    names = dir(hidden_4)
+    for name in names:
+        if name[:2] != "__":
             print(name)
