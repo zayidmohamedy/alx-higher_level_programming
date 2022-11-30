@@ -10,7 +10,7 @@ scripting.
 
 ## Author :
 
-* **Mohamed Abdullahi Hassan** [zayidmohamedy](https://github.com/zayidmohamedy)
+* **Mohamed Abdullahi Hassan ** [zayidmohamedy](https://github.com/zayidmohamedy)
 
 ## Acknowledgements :pray:
 
