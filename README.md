@@ -12,7 +12,7 @@ scripting.
 
 * **Mohamed Abdullahi Hassan ** [zayidmohamedy](https://github.com/zayidmohamedy)
 
-## Acknowledgements :pray:
+## Acknowledgements 
 
 All work contained in this project was completed as part of the curriculum for
 ALX Africa SE. ALX Afica is an online full-stack software
